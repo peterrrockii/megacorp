@@ -1,3 +1,6 @@
 partner list
+<<<<<<< HEAD
 SalesInc
+=======
+>>>>>>> 54d474b (F: delete shiz)
 TheStartup
